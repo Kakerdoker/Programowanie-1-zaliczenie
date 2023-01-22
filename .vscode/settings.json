@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "future": "c",
+        "system_error": "c",
+        "typeindex": "c",
+        "xlocale": "c",
+        "typeinfo": "c",
+        "bitset": "c",
+        "filesystem": "c",
+        "xstring": "c",
+        "string": "c"
+    }
+}

@@ -1,8 +1,75 @@
 # depslib dependency file v1.0
-1671119127 source:c:\szkola\programowanie 1\ludzie\main.c
+1674358334 source:c:\szkola\programowanie 1\ludzie\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<time.h>
 	<math.h>
+	<malloc.h>
+	<stdbool.h>
+	"structures.h"
+	"events.h"
+	"garbage_collection.h"
+	"main_loop.h"
+
+1674352509 c:\szkola\programowanie 1\ludzie\structures.h
+
+1674352508 c:\szkola\programowanie 1\ludzie\events.h
+
+1674352508 c:\szkola\programowanie 1\ludzie\garbage_collection.h
+
+1674352509 c:\szkola\programowanie 1\ludzie\main_loop.h
+
+1674353313 source:c:\szkola\programowanie 1\ludzie\events.c
+	"structures.h"
+	"miscelaneous.h"
+	"human_manager.h"
+
+1674352509 c:\szkola\programowanie 1\ludzie\miscelaneous.h
+
+1674352508 source:c:\szkola\programowanie 1\ludzie\garbage_collection.c
+	<stdlib.h>
+	<stdbool.h>
+	"structures.h"
+
+1674357975 source:c:\szkola\programowanie 1\ludzie\house_manager.c
+	<stdlib.h>
+	<stdbool.h>
+	"structures.h"
+	"events.h"
+	"simulation.h"
+	"human_manager.h"
+
+1674355247 c:\szkola\programowanie 1\ludzie\simulation.h
+
+1674358199 source:c:\szkola\programowanie 1\ludzie\human_manager.c
+	<stdlib.h>
+	<stdbool.h>
+	"structures.h"
+	"garbage_collection.h"
+	"events.h"
+
+1674354088 source:c:\szkola\programowanie 1\ludzie\main_loop.c
+	"structures.h"
+	"menu_navigation.h"
+
+1674355252 c:\szkola\programowanie 1\ludzie\menu_navigation.h
+
+1674355251 source:c:\szkola\programowanie 1\ludzie\menu_navigation.c
+	<stdlib.h>
+	"structures.h"
+
+1674355253 source:c:\szkola\programowanie 1\ludzie\miscelaneous.c
+
+1674357974 source:c:\szkola\programowanie 1\ludzie\simulation.c
+	<stdlib.h>
+	<stdbool.h>
+	"structures.h"
+	"events.h"
+
+1674355248 source:c:\szkola\programowanie 1\ludzie\structures.c
+	"human_manager.h"
+
+1674352508 c:\szkola\programowanie 1\ludzie\human_manager.h
+	<stdbool.h>
 

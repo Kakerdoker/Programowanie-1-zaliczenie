@@ -31,9 +31,45 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="events.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="events.h" />
+		<Unit filename="garbage_collection.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="garbage_collection.h" />
+		<Unit filename="house_manager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="house_manager.h" />
+		<Unit filename="human_manager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="human_manager.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="main_loop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main_loop.h" />
+		<Unit filename="menu_navigation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_navigation.h" />
+		<Unit filename="miscelaneous.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="miscelaneous.h" />
+		<Unit filename="simulation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simulation.h" />
+		<Unit filename="structures.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structures.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
